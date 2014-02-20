@@ -1,3 +1,0 @@
-<public key>
-<private key>
-1
